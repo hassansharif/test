@@ -1,0 +1,12 @@
+{
+    "_verbose_logging_": false,
+
+    "Account": {
+        "target": "Account",
+        "properties": {
+            "Latitude__c": true,
+            "Longitude__c": true,
+            "Name": true
+        }
+    }
+}
